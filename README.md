@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/aikimtan/aikim_tan/blob/main/Ai%20Kim.jpg)width=20% height=20%>
+![alt text](https://github.com/aikimtan/aikim_tan/blob/main/Ai%20Kim.jpg.width=20% height=20%>
 
 <!-- Add your details -->
 
